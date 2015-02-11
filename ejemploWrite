@@ -1,0 +1,7 @@
+?- write('hola digita tu bnombre: '),read(X),nl,write('mucho gusto:'),tab(2),display(X).
+hola digita tu bnombre: felipe.
+
+mucho gusto:  felipe
+X = felipe.
+
+
