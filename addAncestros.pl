@@ -1,0 +1,2 @@
+asserta(hombre(juan)).
+
