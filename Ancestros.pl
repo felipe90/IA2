@@ -4,6 +4,10 @@ mujer(X).
 padre(X,Y).
 madre(X,Y).
 
+
+madre(julia,manuel).
+padre(pepe,manuel).
+
 padre(luis,martha).
 padre(luis,julia).
 
